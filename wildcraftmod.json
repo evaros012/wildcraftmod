@@ -2,10 +2,10 @@
   "Ads":
   [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPODEAL",
       "select_backup_ads":"",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "appodeal_apikey": "",
+      "appodeal_apikey": "4be1a4d43a8c44521ee83e811d73f68a671cd39a4dcc335d",
       "main_ads_intertitial":"",
       "native_for_admob":"",
       "backup_ads_banner":"",
